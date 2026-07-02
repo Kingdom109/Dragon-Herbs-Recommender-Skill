@@ -1,0 +1,21 @@
+{
+  "name": "dragon-herbs-recommender-skill",
+  "version": "0.1.0",
+  "description": "Codex skill for Dragon Herbs catalog product discovery and practitioner-review shortlists.",
+  "private": false,
+  "type": "commonjs",
+  "scripts": {
+    "build:catalog": "node scripts/build_catalog_reference.js",
+    "smoke": "node scripts/run_smoke_tests.js",
+    "match": "node scripts/match_issue.js",
+    "search": "node scripts/search_catalog.js"
+  },
+  "keywords": [
+    "codex-skill",
+    "dragon-herbs",
+    "tcm",
+    "herbalism",
+    "product-discovery"
+  ],
+  "license": "MIT"
+}
