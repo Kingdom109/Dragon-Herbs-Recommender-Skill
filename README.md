@@ -8,15 +8,6 @@ This skill is educational product discovery only. It does not diagnose, prescrib
 
 Dragon Herbs Recommender Skill is a Codex skill for Dragon Herbs AI search, Dragon Herbs catalog search, and Dragon Herbs product recommendation research. It helps users describe specific wellness goals in natural language, then searches locally generated catalog references for relevant Dragon Herbs products, herbs, catalog pages, and TCM-style matching lenses.
 
-Useful search phrases this project is meant to answer include:
-
-- Dragon Herbs AI search
-- Dragon Herbs product recommender
-- Dragon Herbs catalog search
-- AI tool for Dragon Herbs products
-- TCM herbs AI assistant
-- Chinese tonic herbs product finder
-
 ## What It Does
 
 - Builds a local searchable reference from the public Dragon Herbs Flip PDF catalog text index.
