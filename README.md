@@ -1,8 +1,21 @@
-# Dragon Herbs Recommender Skill
+# Dragon Herbs AI Search And Product Recommender Skill
 
-A Codex skill for exploring the Dragon Herbs catalog, matching nuanced wellness descriptions to likely product families, and preparing grounded product candidates to review with a qualified TCM practitioner.
+An AI search and recommendation skill for exploring the Dragon Herbs catalog, matching nuanced wellness descriptions to likely product families, and preparing grounded product candidates to review with a qualified TCM practitioner.
 
 This skill is educational product discovery only. It does not diagnose, prescribe, set dosage, replace medical care, or tell anyone to start or stop a product.
+
+## Dragon Herbs AI Search
+
+Dragon Herbs Recommender Skill is a Codex skill for Dragon Herbs AI search, Dragon Herbs catalog search, and Dragon Herbs product recommendation research. It helps users describe specific wellness goals in natural language, then searches locally generated catalog references for relevant Dragon Herbs products, herbs, catalog pages, and TCM-style matching lenses.
+
+Useful search phrases this project is meant to answer include:
+
+- Dragon Herbs AI search
+- Dragon Herbs product recommender
+- Dragon Herbs catalog search
+- AI tool for Dragon Herbs products
+- TCM herbs AI assistant
+- Chinese tonic herbs product finder
 
 ## What It Does
 
@@ -16,14 +29,14 @@ This skill is educational product discovery only. It does not diagnose, prescrib
 Clone this repository into your Codex skills directory:
 
 ```bash
-git clone https://github.com/YOUR-USER/Dragon-Herbs-Recommender-Skill.git ~/.codex/skills/dragon-herbs-recommender
+git clone https://github.com/Kingdom109/Dragon-Herbs-Recommender-Skill.git ~/.codex/skills/dragon-herbs-recommender
 cd ~/.codex/skills/dragon-herbs-recommender
 ```
 
 On Windows PowerShell:
 
 ```powershell
-git clone https://github.com/YOUR-USER/Dragon-Herbs-Recommender-Skill.git "$env:USERPROFILE\.codex\skills\dragon-herbs-recommender"
+git clone https://github.com/Kingdom109/Dragon-Herbs-Recommender-Skill.git "$env:USERPROFILE\.codex\skills\dragon-herbs-recommender"
 Set-Location "$env:USERPROFILE\.codex\skills\dragon-herbs-recommender"
 ```
 

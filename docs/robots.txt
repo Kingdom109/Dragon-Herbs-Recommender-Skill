@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kingdom109.github.io/Dragon-Herbs-Recommender-Skill/sitemap.xml
